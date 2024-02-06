@@ -5,9 +5,15 @@
 
 <div id="social" align="center">
   <a href="http://t.me/aleksandrkajl">
-    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=red" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"/>
   </a>
 </div>
+
+### Above me
+- 😎I’m currently working on getting my GitHub profile right.
+- 🐱‍👤I’m currently learning **C++20, Python**
+- 🐱‍💻Know about my experience [CV](https://krasnoyarsk.hh.ru/applicant/resumes/view?resume=e60e4fedff08f102cb0039ed1f724c6554444b)
+- 📫Reach me by [email](mailto:kajlaleksandr1986@gmail.com)
 <!--
 **AleksandrKajl/AleksandrKajl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
