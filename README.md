@@ -11,7 +11,7 @@
 
 ### Above me
 - 😎I’m currently working on getting my GitHub profile right.
-- 🐱‍👤I’m currently learning **C++20, Python**
+- 🐱‍👤I’m currently learning **Go**
 - 🐱‍💻Know about my experience [CV](https://krasnoyarsk.hh.ru/applicant/resumes/view?resume=e60e4fedff08f102cb0039ed1f724c6554444b)
 - 📫Reach me by [email](mailto:kajlaleksandr1986@gmail.com)
 <!--
